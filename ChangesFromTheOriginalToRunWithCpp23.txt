@@ -1,0 +1,4 @@
+1-the loop variable  "i" was missing declaration (as int) in two places 
+Changed  for(i=...) to (for int i=..)
+
+2-changed void main()       to int main()
