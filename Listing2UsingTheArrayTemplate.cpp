@@ -1,7 +1,7 @@
      
 //Listing 2: Using the array template
 #include <stdio.h>
-//#include "Listing1DefinesTemplateArrayClass.h"
+#include "Listing1DefinesTemplateArrayClass.h"
      
 int main()
 {
@@ -74,4 +74,5 @@ int main()
      
 }
      
+
 //End of File
